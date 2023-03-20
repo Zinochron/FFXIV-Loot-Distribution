@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcfec931-5aa1-456e-9f76-cf81b1179913" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="25khAdWzW1eyUfxXJXtYgVh5nP7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\xampp\htdocs\" />
+      <recent name="Z:\xampp\htdocs" />
+      <recent name="Z:\xampp\htdocs\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcfec931-5aa1-456e-9f76-cf81b1179913" name="Changes" comment="" />
+      <created>1646076850441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646076850441</updated>
+      <workItem from="1646076853939" duration="1351000" />
+      <workItem from="1646079549783" duration="3294000" />
+      <workItem from="1646547125480" duration="7703000" />
+      <workItem from="1646608097729" duration="4567000" />
+      <workItem from="1646618010793" duration="6295000" />
+      <workItem from="1646656179532" duration="16598000" />
+      <workItem from="1646776730878" duration="8388000" />
+      <workItem from="1646854302697" duration="17308000" />
+      <workItem from="1646921756124" duration="22110000" />
+      <workItem from="1647012291681" duration="27416000" />
+      <workItem from="1647112328528" duration="18254000" />
+      <workItem from="1647149411362" duration="4000" />
+      <workItem from="1647176543066" duration="3800000" />
+      <workItem from="1667582261245" duration="627000" />
+      <workItem from="1669731385841" duration="1193000" />
+      <workItem from="1677510944673" duration="218000" />
+      <workItem from="1679346696786" duration="1160000" />
+      <workItem from="1679351264660" duration="2459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,97 @@
+#flex_parent {
+    display: flex; /* or inline-flex */
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 60px;
+}
+
+.flex_element{
+
+}
+
+.raid_group_header{
+    text-align: left;
+    padding-left: 10px;
+}
+
+#table_container{
+    #position: absolute;
+    left: calc(50% - 300px);
+    right: calc(50% - 300px);
+    bottom: 0;
+    margin-bottom: 0;
+}
+
+.panel-heading:hover{
+    cursor: pointer;
+}
+
+#form_container{
+    margin-top: 60px;
+}
+
+.form_distance{
+    margin-bottom: 5px;
+}
+
+#add_form{
+    max-width: 600px;
+    position: absolute;
+    left: calc(50% - 300px);
+    top: 60px;
+}
+
+#add_group_form{
+    max-width: 400px;
+    position: absolute;
+    left: calc(50% - 200px);
+    top: 60px;
+}
+
+#dis-container{
+
+}
+
+#grid_container{
+    margin-top: 60px;
+}
+
+.small_margin_top{
+    margin-top: 0px;
+}
+
+.btn:focus, .btn:active, .btn:active:focus,
+.btn-default:focus, .btn-default:active, .btn-default:active:focus,
+.btn-sm:focus, .btn-sm:active, .btn-sm:active:focus{
+    outline: none; !important;
+}
+
+.progress {
+    position: relative;
+}
+
+.progress span {
+    position: absolute;
+    display: block;
+    width: 100%;
+    color: black;
+}
+
+.select_style_right{
+    position: absolute;
+    right: 30px;
+    max-width: 200px;
+}
+
+html {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.tab-pane:not(.active).show { display: none !important; }

@@ -1,0 +1,8 @@
+- aktualisieren der Positionen in der Liste
+    - Live
+    - JS
+- Startpositionen hinterlegen
+    - raid_member_start_pos
+        - - -> zu erst
+        - + -> zu letzt
+- startpositionen vertauschen
